@@ -6,4 +6,4 @@
 [Here](files/Homework1.html) is my homework 1
 # Homework 2
 ## Week 5 ( October 26)
-[Here](files/Homework2.html) is my homework 1
+[Here](files/homework2.html) is my homework 2
