@@ -7,3 +7,6 @@
 # Homework 2
 ## Week 5 ( October 26)
 [Here](files/homework2.html) is my homework 2
+# Homework 3
+## Week 9 ( November 19)
+[Here](files/IE582_HOMEWORK3.html) is my homework 3
